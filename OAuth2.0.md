@@ -2,7 +2,7 @@ OAuth2.0 과정은 크게 4가지 프로세스로 나뉜다.
 
 ![image](https://github.com/user-attachments/assets/bbce32c4-61dc-40f5-a26b-de70102674b1)
  * 카카오를 예시로 들겠다.
- * 
+
 1. Client가 카카오 로그인을 요청한다.
 
 2. 카카오로 부터 로그인을 수행하고 인가코드를 받는다.
